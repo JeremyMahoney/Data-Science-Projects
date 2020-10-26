@@ -1,5 +1,4 @@
 # Data Science Projects
 This is an actively growing collection of simple data science projects that I'm using to learn.
 
-Many of these projects are based on guided projects on the website [Dataquest](https://www.dataquest.io/), which are basically
-loose suggestions for the structure of a project. The title of jupyter notebooks based on guided projects all start with "Dataquest Guided Project_", and the ones that have no connection to Dataquest don't.
+Many of these projects are based on guided projects on the website [Dataquest](https://www.dataquest.io/), which are suggestions for the structure of a project.
